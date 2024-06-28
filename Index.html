@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo da Velha</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="container">
+    <div id="jogadores">
+      <input type="text" id="jogador1" placeholder="Nome do Jogador 1">
+      <input type="text" id="jogador2" placeholder="Nome do Jogador 2">
+      <button onclick="iniciarJogo()">Iniciar Jogo</button>
+    </div>
+    <div id="jogo-da-velha">
+      <div id="tabuleiro">
+        <div class="celula" data-pos="0,0"></div>
+        <div class="celula" data-pos="0,1"></div>
+        <div class="celula" data-pos="0,2"></div>
+        <div class="celula" data-pos="1,0"></div>
+        <div class="celula" data-pos="1,1"></div>
+        <div class="celula" data-pos="1,2"></div>
+        <div class="celula" data-pos="2,0"></div>
+        <div class="celula" data-pos="2,1"></div>
+        <div class="celula" data-pos="2,2"></div>
+      </div>
+      <div id="ranking"></div>
+    </div>
+  </div>
+  <script src="scripts.js"></script>
+</body>
+</html>
