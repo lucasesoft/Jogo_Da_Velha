@@ -1,6 +1,9 @@
-Olá Professoe!
-O repositório foi criado pouco antes da entrega pelo fato de eu ter feito sozinho, então acabei fazendo tudo no comoutador e criei só agora.
+Olá Professor,
 
-O principal desafio que enfrentei foi fazer com que ks jogadores jogassem alternados, e só consegui solucionar pedindo ajuda a outro grupo.
+Informo que o repositório foi criado pouco antes do prazo de entrega devido ao fato de eu ter trabalhado de forma individual. Assim, decidi estruturar todo o código no computador e criar o repositório somente neste momento.
 
-O design não ficou lá aquelas coisas, mas fiz o que consegui.
+Um dos principais desafios que enfrentei durante o desenvolvimento do projeto foi conseguir implementar a alternância entre os jogadores, e só fui capaz de solucioná-lo após receber assistência de outro grupo.
+
+É importante salientar que o design do projeto não atingiu o nível desejado, no entanto, fiz o melhor que pude dentro das minhas habilidades.
+
+Grato pela atenção.
